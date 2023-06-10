@@ -1,4 +1,3 @@
-```
 # Calendário React+Tailwind
 Projeto criado com o objetivo em aprender mais sobre ReactJs, TailwindCss e ReactRouters
 
@@ -24,5 +23,4 @@ A cada nova inserção ou dead-line próxima, o app envia uma notificação via 
 - [ ] Integração Google Home / Alexa / assitentes virtuais;
 - [ ] Grupos / Tasks Colaborativas específicas para grupos
 
-> Caso tenha alguma sugestão para o projeto ou queira colaborar, por favor sinta-se livre para clonar o Repositório! 
-```
+> Caso tenha alguma sugestão para o projeto ou queira colaborar, por favor sinta-se livre para clonar o Repositório!
