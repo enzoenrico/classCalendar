@@ -1,4 +1,8 @@
-# Calendário React+Tailwind
+# Classminder
+> menos preocupações, mais produtividade
+
+![LogoProduto](https://github.com/enzoenrico/classCalendar/assets/47016293/f7a99caa-b1f2-4953-8db0-9fe668d7ffb6)
+
 
 Projeto criado com o objetivo em aprender mais sobre ReactJs, TailwindCss e ReactRouters
 
